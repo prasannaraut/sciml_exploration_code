@@ -18,7 +18,7 @@ n_tests = 30
 train_file_16 = "darcy_train_16.pt"
 train_file_32 = "darcy_train_32.pt"
 test_file_16 = "darcy_test_16.pt"
-test_file_32 = "darcy_test_16.pt"
+test_file_32 = "darcy_test_32.pt"
 
 input_resolution = 16
 output_resolution = 32
